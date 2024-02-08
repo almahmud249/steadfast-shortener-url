@@ -6,8 +6,8 @@ Project setup
 
 Follow the instructions below to setup the project quickly:
 
--   Clone the repo: ``git clone https://github.com/almahmud249/shortener-url.git``
--   Run ``cd shortener-url``
+-   Clone the repo: ``git clone https://github.com/almahmud249/steadfast-shortener-url.git``
+-   Run ``cd steadfast-shortener-url``
 -   Run ``composer install`` command
 -   Run ``yarn install`` or ``npm install`` command
 -   Run ``copy .env.example .env`` command
